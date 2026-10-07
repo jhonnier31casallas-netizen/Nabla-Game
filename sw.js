@@ -1,8 +1,8 @@
 /* ================= NABLA · Service worker (PWA) =================
    Caché de la app para que funcione instalada y sin conexión.
-   El build.js reemplaza 63016d4d4c por un hash del contenido, así cada
+   El build.js reemplaza 35f9566c60 por un hash del contenido, así cada
    versión nueva invalida la caché anterior automáticamente. */
-const V='nabla-63016d4d4c';
+const V='nabla-35f9566c60';
 const SHELL=['./','./index.html','./nabla.html','./manifest.webmanifest','./icon-192.png','./icon-512.png'];
 
 self.addEventListener('install',e=>{

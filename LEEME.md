@@ -1,5 +1,12 @@
 # NABLA como aplicación instalable (PWA)
 
+_NABLA fue creado por **Esteban Casallas**, docente de la Universidad Industrial de Santander (UIS). Los créditos aparecen en la pantalla de inicio, en el menú lateral, en Ajustes, en la Guía y en los diplomas._
+
+> **Versión con estilo de plataformas retro (8 bits).** Día = cielo azul, Noche = nivel subterráneo; mascota original Δ, camino de niveles en el mapa y sonidos de 8 bits. Si ya tenías NABLA publicada, vuelve a subir **los 5 archivos** (reemplazan a los anteriores) para que todos reciban esta versión.
+>
+> **Nuevo: Vestuario.** Los estudiantes personalizan su mascota (18 skins, accesorios, tono de piel y color del emblema). Cada skin se desbloquea con una meta de juego. Para el docente: la skin secreta «Profe» se abre con el código **UIS-NABLA-2026** (escribirlo en Vestuario → Código secreto); puedes dárselo a tu clase como premio.
+
+
 Esta carpeta trae 5 archivos sueltos —a propósito, sin subcarpetas— para que
 publicarla sea tan simple como arrastrarlos todos juntos:
 
@@ -66,3 +73,8 @@ repositorio. El `sw.js` lleva un número de versión que cambia con cada
 build, así que los navegadores de los estudiantes descargan la
 actualización solos la próxima vez que abran la app con internet — no
 hace falta que desinstalen nada.
+
+
+## Si ya la tenías publicada
+
+Para actualizar a esta versión (fases 2 a 4), sube de nuevo **los 5 archivos** al repositorio con "Add file → Upload files" y confirma los cambios. Los estudiantes verán la versión nueva la próxima vez que abran la aplicación con conexión (su progreso guardado se conserva).
